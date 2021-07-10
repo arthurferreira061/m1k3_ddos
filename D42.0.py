@@ -1,6 +1,6 @@
 
 #[+]==============[ Contact ]============# #
-# # Email  : d4rky@7outlook.be           # #
+# # Email  : hackermaiki021@gmail            # #
 #[+]====================================[+]#
 
 import os, sys
